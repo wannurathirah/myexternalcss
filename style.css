@@ -1,0 +1,53 @@
+
+
+
+body
+{
+	 background-color:rosybrown ;
+    
+}
+
+p
+{
+	font-family:'Bangers', cursive;
+	font-size:40px;
+}
+
+h1
+{
+	font-family:'Langar', cursive ;
+	font-size:50px;
+}
+
+h2
+{
+	font-family:'Langar', cursive ;
+}
+
+h3
+{
+	font-family: 'Langar', cursive ;
+}
+
+
+h4
+{
+	font-family: 'Langar', cursive ;
+}
+
+
+a
+
+{
+	font-family: 'Langar', cursive;
+	color:paleturquoise;
+	background-color:teal;
+	padding: 10px;
+	text-align:center;
+	text-decoration:none;
+	display:inline-block;
+	border-radius:50px;
+}
+
+
+
